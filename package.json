@@ -34,10 +34,10 @@
     "type": "git",
     "url": "git+https://github.com/AnthonyGaimari/Clicky-Game.git" 
   },
-  "author": "",
+  "author": "Anthony Gaimari",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AnthonyGaimari/Clicky-Game/issues"
   },
-  "homepage": "https://github.com/AnthonyGaimari/Clicky-Game#readme"
+  "homepage": "https://anthonygaimari.github.io/Clicky-Game/"
 }
