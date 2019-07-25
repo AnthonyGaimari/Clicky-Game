@@ -32,7 +32,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnthonyGaimari/Clicky-Game.git"
+    "url": "git+https://github.com/AnthonyGaimari/Clicky-Game.git" 
   },
   "author": "",
   "license": "ISC",
