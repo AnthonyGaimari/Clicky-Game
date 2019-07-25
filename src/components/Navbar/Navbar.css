@@ -1,0 +1,17 @@
+.navbar {
+  width: 100%;
+  color: floralwhite;
+  background: darkblue;
+  font-size: 20px;
+}
+#title {
+  margin-left: 22px;
+  font-size: 40px;
+  font-family: "Bookman Old Style", serif;
+}
+
+p.rules {
+  margin-left: 22px;
+  font-size: 40px;
+  font-family: "Bookman Old Style", serif;
+}
